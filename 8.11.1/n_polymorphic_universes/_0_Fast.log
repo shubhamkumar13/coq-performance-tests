@@ -1,40 +1,40 @@
 Params: 0-univ-count= 32 , 1-n= 5
-Tactic call exact ran for 0.001 secs (0.u,0.001s) (success)
-Tactic call abstract ran for 0.005 secs (0.002u,0.003s) (success)
+Tactic call exact ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call abstract ran for 0.005 secs (0.005u,0.s) (success)
 Tactic call close-abstract ran for 0. secs (0.u,0.s)
 Params: 0-univ-count= 64 , 1-n= 6
 Tactic call exact ran for 0.003 secs (0.u,0.003s) (success)
-Tactic call abstract ran for 0.011 secs (0.007u,0.003s) (success)
+Tactic call abstract ran for 0.012 secs (0.008u,0.003s) (success)
 Tactic call close-abstract ran for 0. secs (0.u,0.s)
 Params: 0-univ-count= 128 , 1-n= 7
 Tactic call exact ran for 0.007 secs (0.003u,0.003s) (success)
-Tactic call abstract ran for 0.069 secs (0.048u,0.02s) (success)
+Tactic call abstract ran for 0.075 secs (0.064u,0.011s) (success)
 Tactic call close-abstract ran for 0. secs (0.u,0.s)
 Params: 0-univ-count= 256 , 1-n= 8
 Tactic call exact ran for 0.01 secs (0.01u,0.s) (success)
-Tactic call abstract ran for 0.039 secs (0.039u,0.s) (success)
+Tactic call abstract ran for 0.042 secs (0.042u,0.s) (success)
 Tactic call close-abstract ran for 0. secs (0.u,0.s)
 Params: 0-univ-count= 512 , 1-n= 9
-Tactic call exact ran for 0.021 secs (0.021u,0.s) (success)
-Tactic call abstract ran for 0.106 secs (0.102u,0.003s) (success)
+Tactic call exact ran for 0.022 secs (0.022u,0.s) (success)
+Tactic call abstract ran for 0.115 secs (0.115u,0.s) (success)
 Tactic call close-abstract ran for 0. secs (0.u,0.s)
 Params: 0-univ-count= 1024 , 1-n= 10
-Tactic call exact ran for 0.044 secs (0.044u,0.s) (success)
-Tactic call abstract ran for 0.227 secs (0.226u,0.s) (success)
+Tactic call exact ran for 0.05 secs (0.05u,0.s) (success)
+Tactic call abstract ran for 0.257 secs (0.257u,0.s) (success)
 Tactic call close-abstract ran for 0. secs (0.u,0.s)
 Params: 0-univ-count= 2048 , 1-n= 11
-Tactic call exact ran for 0.115 secs (0.112u,0.003s) (success)
-Tactic call abstract ran for 0.822 secs (0.814u,0.008s) (success)
+Tactic call exact ran for 0.13 secs (0.127u,0.003s) (success)
+Tactic call abstract ran for 0.869 secs (0.859u,0.01s) (success)
 Tactic call close-abstract ran for 0. secs (0.u,0.s)
 Params: 0-univ-count= 4096 , 1-n= 12
-Tactic call exact ran for 0.23 secs (0.226u,0.003s) (success)
-Tactic call abstract ran for 2.724 secs (2.715u,0.007s) (success)
+Tactic call exact ran for 0.235 secs (0.235u,0.s) (success)
+Tactic call abstract ran for 2.78 secs (2.773u,0.006s) (success)
 Tactic call close-abstract ran for 0. secs (0.u,0.s)
 Params: 0-univ-count= 8192 , 1-n= 13
-Tactic call exact ran for 0.46 secs (0.452u,0.008s) (success)
-Tactic call abstract ran for 9.318 secs (9.288u,0.028s) (success)
+Tactic call exact ran for 0.494 secs (0.482u,0.012s) (success)
+Tactic call abstract ran for 9.635 secs (9.607u,0.027s) (success)
 Tactic call close-abstract ran for 0. secs (0.u,0.s)
 Params: 0-univ-count= 16384 , 1-n= 14
-Tactic call exact ran for 0.943 secs (0.931u,0.011s) (success)
-Tactic call abstract ran for 32.637 secs (32.582u,0.044s) (success)
+Tactic call exact ran for 1.02 secs (1.007u,0.012s) (success)
+Tactic call abstract ran for 38.741 secs (38.649u,0.079s) (success)
 Tactic call close-abstract ran for 0. secs (0.u,0.s)
