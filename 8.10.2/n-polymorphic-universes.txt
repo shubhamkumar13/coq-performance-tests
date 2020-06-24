@@ -1,0 +1,16 @@
+param-0-univ-count param-1-n abstract-regression-quadratic-regression-cubic-real abstract-regression-quadratic-regression-cubic-sys abstract-regression-quadratic-regression-cubic-user close-abstract-regression-quadratic-regression-cubic-real close-abstract-regression-quadratic-regression-cubic-sys close-abstract-regression-quadratic-regression-cubic-user exact-regression-quadratic-regression-cubic-regression-linear-real exact-regression-quadratic-regression-cubic-regression-linear-sys exact-regression-quadratic-regression-cubic-regression-linear-user
+1 0 0. 0. 0. 0. 0. 0. 0. 0. 0.
+2 1 0. 0. 0. 0. 0. 0. 0. 0. 0.
+4 2 0. 0. 0. 0.001 0. 0.001 0. 0. 0.
+8 3 0. 0. 0. 0.001 0. 0. 0. 0. 0.
+16 4 0. 0. 0. 0.001 0. 0.001 0.001 0. 0.001
+32 5 0. 0. 0. 0.004 0. 0.004 0.002 0. 0.002
+64 6 0. 0. 0. 0.008 0. 0.008 0.004 0.003 0.
+128 7 0. 0. 0. 0.077 0.011 0.066 0.008 0. 0.008
+256 8 0. 0. 0. 0.041 0. 0.041 0.011 0. 0.011
+512 9 0. 0. 0. 0.078 0. 0.078 0.023 0. 0.023
+1024 10 0. 0. 0. 0.216 0. 0.216 0.047 0. 0.047
+2048 11 0. 0. 0. 0.767 0. 0.767 0.122 0.003 0.119
+4096 12 0. 0. 0. 2.697 0.011 2.684 0.247 0.004 0.243
+8192 13 0. 0. 0. 9.722 0.023 9.696 0.507 0.008 0.498
+16384 14 0. 0. 0. 34.563 0.036 34.517 1.01 0.028 0.981
