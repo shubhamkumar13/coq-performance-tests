@@ -13,8 +13,8 @@ CPU family:          6
 Model:               85
 Model name:          Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz
 Stepping:            4
-CPU MHz:             2095.145
-BogoMIPS:            4190.29
+CPU MHz:             2095.196
+BogoMIPS:            4190.39
 Hypervisor vendor:   Microsoft
 Virtualization type: full
 L1d cache:           32K
