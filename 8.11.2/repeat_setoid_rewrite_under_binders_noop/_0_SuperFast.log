@@ -1,16 +1,16 @@
 Params: n= 50
-Tactic call noop-repeat-setoid_rewrite-regression-cubic ran for 0.19 secs (0.167u,0.023s) (success)
+Tactic call noop-repeat-setoid_rewrite-regression-cubic ran for 0.193 secs (0.181u,0.012s) (success)
 Tactic call noop-repeat-rewrite_strat-topdown-regression-cubic ran for 0.128 secs (0.128u,0.s) (success)
-Tactic call noop-repeat-rewrite_strat-bottomup-regression-cubic ran for 0.127 secs (0.126u,0.s) (success)
+Tactic call noop-repeat-rewrite_strat-bottomup-regression-cubic ran for 0.126 secs (0.126u,0.s) (success)
 Params: n= 100
-Tactic call noop-repeat-setoid_rewrite-regression-cubic ran for 0.883 secs (0.88u,0.002s) (success)
-Tactic call noop-repeat-rewrite_strat-topdown-regression-cubic ran for 0.886 secs (0.885u,0.s) (success)
-Tactic call noop-repeat-rewrite_strat-bottomup-regression-cubic ran for 0.878 secs (0.878u,0.s) (success)
+Tactic call noop-repeat-setoid_rewrite-regression-cubic ran for 0.897 secs (0.896u,0.s) (success)
+Tactic call noop-repeat-rewrite_strat-topdown-regression-cubic ran for 0.898 secs (0.897u,0.s) (success)
+Tactic call noop-repeat-rewrite_strat-bottomup-regression-cubic ran for 0.897 secs (0.897u,0.s) (success)
 Params: n= 150
-Tactic call noop-repeat-setoid_rewrite-regression-cubic ran for 2.893 secs (2.892u,0.s) (success)
-Tactic call noop-repeat-rewrite_strat-topdown-regression-cubic ran for 2.893 secs (2.889u,0.003s) (success)
-Tactic call noop-repeat-rewrite_strat-bottomup-regression-cubic ran for 2.871 secs (2.87u,0.s) (success)
+Tactic call noop-repeat-setoid_rewrite-regression-cubic ran for 2.974 secs (2.973u,0.s) (success)
+Tactic call noop-repeat-rewrite_strat-topdown-regression-cubic ran for 2.943 secs (2.942u,0.s) (success)
+Tactic call noop-repeat-rewrite_strat-bottomup-regression-cubic ran for 2.925 secs (2.925u,0.s) (success)
 Params: n= 200
-Tactic call noop-repeat-setoid_rewrite-regression-cubic ran for 6.827 secs (6.822u,0.004s) (success)
-Tactic call noop-repeat-rewrite_strat-topdown-regression-cubic ran for 6.817 secs (6.815u,0.s) (success)
-Tactic call noop-repeat-rewrite_strat-bottomup-regression-cubic ran for 6.833 secs (6.823u,0.007s) (success)
+Tactic call noop-repeat-setoid_rewrite-regression-cubic ran for 6.927 secs (6.918u,0.007s) (success)
+Tactic call noop-repeat-rewrite_strat-topdown-regression-cubic ran for 6.923 secs (6.913u,0.007s) (success)
+Tactic call noop-repeat-rewrite_strat-bottomup-regression-cubic ran for 6.934 secs (6.929u,0.003s) (success)
