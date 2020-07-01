@@ -20,5 +20,5 @@ Tactic call try-rewrite!-noop-regression-quadratic ran for 0. secs (0.u,0.s) (su
 Tactic call try-rewrite-noop-regression-quadratic ran for 0. secs (0.u,0.s) (success)
 Tactic call try-rewrite?-noop-regression-quadratic ran for 0. secs (0.u,0.s) (success)
 Tactic call try-ssr-rewrite!-noop-regression-linear ran for 0. secs (0.u,0.s) (success)
-Tactic call try-ssr-rewrite-noop-regression-linear ran for 0. secs (0.u,0.s) (success)
+Tactic call try-ssr-rewrite-noop-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
 Tactic call try-ssr-rewrite?-noop-regression-linear ran for 0. secs (0.u,0.s) (success)

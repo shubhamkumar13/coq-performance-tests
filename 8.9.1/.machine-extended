@@ -13,7 +13,7 @@ CPU family:          6
 Model:               79
 Model name:          Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
 Stepping:            1
-CPU MHz:             2294.684
+CPU MHz:             2294.682
 BogoMIPS:            4589.36
 Hypervisor vendor:   Microsoft
 Virtualization type: full
