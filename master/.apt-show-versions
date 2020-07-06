@@ -1,2 +1,2 @@
-coq:amd64/bionic 8.master~git~202007041421+21525-0~daily335-cf388fd~ubuntu18.04.1 uptodate
-libcoq-ocaml-dev:amd64/bionic 8.master~git~202007041421+21525-0~daily335-cf388fd~ubuntu18.04.1 uptodate
+coq:amd64/bionic 8.master~git~202007051424+21527-0~daily335-0545c94~ubuntu18.04.1 uptodate
+libcoq-ocaml-dev:amd64/bionic 8.master~git~202007051424+21527-0~daily335-0545c94~ubuntu18.04.1 uptodate
