@@ -11,7 +11,7 @@ Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
 Params: n= 9
 Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
 Params: n= 10
-Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.001s) (success)
+Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
 Params: n= 11
 Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
 Params: n= 12
@@ -29,7 +29,7 @@ Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
 Params: n= 18
 Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
 Params: n= 19
-Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.001s) (success)
 Params: n= 20
 Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.001s) (success)
 Params: n= 21
@@ -37,29 +37,29 @@ Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.001s) (success)
 Params: n= 22
 Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.001s) (success)
 Params: n= 23
-Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.001s) (success)
+Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
 Params: n= 24
 Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.001s) (success)
 Params: n= 25
-Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.001s) (success)
 Params: n= 26
 Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.001s) (success)
 Params: n= 27
-Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.001s) (success)
+Tactic call pattern-regression-linear ran for 0.002 secs (0.u,0.002s) (success)
 Params: n= 28
-Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.001s) (success)
-Params: n= 29
-Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.001s) (success)
-Params: n= 30
-Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
-Params: n= 31
-Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
-Params: n= 32
 Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.s) (success)
+Params: n= 29
+Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.s) (success)
+Params: n= 30
+Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.001s) (success)
+Params: n= 31
+Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.001s) (success)
+Params: n= 32
+Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.001s) (success)
 Params: n= 33
-Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
 Params: n= 34
-Tactic call pattern-regression-linear ran for 0.052 secs (0.036u,0.015s) (success)
+Tactic call pattern-regression-linear ran for 0.054 secs (0.048u,0.003s) (success)
 Params: n= 35
 Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
 Params: n= 36
@@ -67,7 +67,7 @@ Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
 Params: n= 37
 Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
 Params: n= 38
-Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0. secs (0.006u,0.001s) (success)
 Params: n= 39
 Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
 Params: n= 40
@@ -79,11 +79,11 @@ Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
 Params: n= 43
 Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
 Params: n= 44
-Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
 Params: n= 45
-Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
 Params: n= 46
-Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0. secs (0.u,0.s) (success)
 Params: n= 47
 Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 48
@@ -135,9 +135,9 @@ Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 71
 Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 72
-Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.001 secs (0.u,0.s) (success)
 Params: n= 73
-Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.001 secs (0.004u,0.s) (success)
 Params: n= 74
 Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 75
@@ -163,35 +163,35 @@ Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 85
 Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 86
-Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 87
 Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 88
-Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 89
 Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 90
-Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 91
 Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 92
-Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 93
-Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 94
-Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 95
-Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 96
-Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 97
-Tactic call pattern-regression-linear ran for 0.002 secs (0.u,0.002s) (success)
+Tactic call pattern-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
 Params: n= 98
 Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 99
 Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 100
-Tactic call pattern-regression-linear ran for 0.002 secs (0.001u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 101
 Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 102
@@ -223,7 +223,7 @@ Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 115
 Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 116
-Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 117
 Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 118
@@ -231,7 +231,7 @@ Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 119
 Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 120
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 121
 Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 122
@@ -263,15 +263,15 @@ Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 135
 Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 136
-Tactic call pattern-regression-linear ran for 0.003 secs (0.002u,0.s) (success)
-Params: n= 137
 Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 137
+Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 138
 Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 139
 Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 140
-Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 141
 Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 142
@@ -281,7 +281,7 @@ Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 144
 Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
 Params: n= 145
-Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 146
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 147
@@ -289,7 +289,7 @@ Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 148
 Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 149
-Tactic call pattern-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 150
 Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 151
@@ -351,19 +351,19 @@ Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 179
 Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 180
-Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 181
 Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 182
 Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 183
-Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 184
 Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 185
 Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 186
-Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 187
 Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 188
@@ -373,31 +373,31 @@ Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 190
 Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 191
-Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
-Params: n= 192
 Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
+Params: n= 192
+Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 193
 Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 194
 Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
 Params: n= 195
-Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
-Params: n= 196
-Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
-Params: n= 197
-Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
-Params: n= 198
 Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Params: n= 196
+Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
+Params: n= 197
+Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
+Params: n= 198
+Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 199
-Tactic call pattern-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.004 secs (0.001u,0.s) (success)
 Params: n= 200
-Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.004 secs (0.008u,0.s) (success)
 Params: n= 201
-Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 202
-Tactic call pattern-regression-linear ran for 0.003 secs (0.u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 203
-Tactic call pattern-regression-linear ran for 0.004 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 204
 Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 205
@@ -437,7 +437,7 @@ Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 222
 Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 223
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 224
 Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 225
@@ -455,7 +455,7 @@ Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 231
 Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 232
-Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 233
 Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 234
@@ -469,7 +469,7 @@ Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 238
 Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 239
-Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 240
 Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 241
@@ -487,11 +487,11 @@ Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 247
 Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 248
-Tactic call pattern-regression-linear ran for 0.012 secs (0.012u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 249
-Tactic call pattern-regression-linear ran for 0.008 secs (0.004u,0.003s) (success)
+Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 250
-Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
 Params: n= 251
 Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 252
@@ -527,7 +527,7 @@ Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 267
 Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 268
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 269
 Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 270
@@ -535,27 +535,27 @@ Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 271
 Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 272
-Tactic call pattern-regression-linear ran for 0.006 secs (0.002u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 273
-Tactic call pattern-regression-linear ran for 0.006 secs (0.01u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 274
 Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 275
 Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 276
-Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.005 secs (0.004u,0.s) (success)
 Params: n= 277
-Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.005 secs (0.008u,0.s) (success)
 Params: n= 278
 Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 279
-Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.005 secs (0.003u,0.s) (success)
 Params: n= 280
-Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.005 secs (0.008u,0.s) (success)
 Params: n= 281
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 282
-Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 283
 Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 284
@@ -581,29 +581,29 @@ Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 294
 Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
 Params: n= 295
-Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.007 secs (0.005u,0.001s) (success)
 Params: n= 296
-Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 297
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.006 secs (0.005u,0.s) (success)
 Params: n= 298
-Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 299
-Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 300
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 301
-Tactic call pattern-regression-linear ran for 0.005 secs (0.006u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 302
-Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 303
-Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 304
-Tactic call pattern-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 305
 Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 306
-Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 307
 Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 308
@@ -653,13 +653,13 @@ Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 330
 Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 331
-Tactic call pattern-regression-linear ran for 0.007 secs (0.005u,0.002s) (success)
+Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 332
-Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
-Params: n= 333
-Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
-Params: n= 334
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
+Params: n= 333
+Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
+Params: n= 334
+Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 335
 Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 336
@@ -667,7 +667,7 @@ Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 337
 Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 338
-Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 339
 Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 340
@@ -675,9 +675,9 @@ Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 341
 Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 342
-Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.007 secs (0.006u,0.s) (success)
 Params: n= 343
-Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.007 secs (0.01u,0.s) (success)
 Params: n= 344
 Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 345
@@ -689,31 +689,31 @@ Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 348
 Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
 Params: n= 349
-Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 350
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 351
-Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 352
-Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 353
-Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 354
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 355
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 356
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 357
-Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 358
-Tactic call pattern-regression-linear ran for 0.006 secs (0.006u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 359
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 360
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 361
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 362
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 363
@@ -723,7 +723,7 @@ Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 365
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 366
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 367
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 368
@@ -733,13 +733,13 @@ Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 370
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 371
-Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 372
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 373
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 374
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.007 secs (0.u,0.s) (success)
 Params: n= 375
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 376
@@ -749,9 +749,9 @@ Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 378
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 379
-Tactic call pattern-regression-linear ran for 0.008 secs (0.004u,0.003s) (success)
+Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 380
-Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 381
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 382
@@ -761,49 +761,49 @@ Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 384
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 385
-Tactic call pattern-regression-linear ran for 0.009 secs (0.005u,0.003s) (success)
+Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 386
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.008 secs (0.007u,0.s) (success)
 Params: n= 387
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 388
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
-Params: n= 389
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
-Params: n= 390
-Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
-Params: n= 391
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
-Params: n= 392
 Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
+Params: n= 389
+Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
+Params: n= 390
+Tactic call pattern-regression-linear ran for 0.011 secs (0.011u,0.s) (success)
+Params: n= 391
+Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
+Params: n= 392
+Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 393
 Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 394
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 395
-Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 396
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 397
-Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.008 secs (0.005u,0.s) (success)
 Params: n= 398
-Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.008 secs (0.012u,0.s) (success)
 Params: n= 399
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 400
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 401
 Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 402
-Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
 Params: n= 403
 Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 404
-Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 405
 Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 406
-Tactic call pattern-regression-linear ran for 0.007 secs (0.007u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 407
 Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 408
@@ -817,7 +817,7 @@ Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 412
 Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 413
-Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 414
 Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 415
@@ -831,7 +831,7 @@ Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 419
 Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 420
-Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 421
 Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 422
@@ -843,7 +843,7 @@ Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 425
 Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 426
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 427
 Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 428
@@ -851,7 +851,7 @@ Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 429
 Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 430
-Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 431
 Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 432
@@ -873,13 +873,13 @@ Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 440
 Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 441
-Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 442
 Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 443
-Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.011 secs (0.011u,0.s) (success)
 Params: n= 444
-Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 445
 Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 446
@@ -887,15 +887,15 @@ Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 447
 Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 448
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 449
-Tactic call pattern-regression-linear ran for 0.011 secs (0.011u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 450
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 451
-Tactic call pattern-regression-linear ran for 0.011 secs (0.011u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 452
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
 Params: n= 453
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 454
@@ -905,23 +905,23 @@ Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 456
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 457
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.009 secs (0.007u,0.s) (success)
 Params: n= 458
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.009 secs (0.012u,0.s) (success)
 Params: n= 459
 Tactic call pattern-regression-linear ran for 0.011 secs (0.011u,0.s) (success)
 Params: n= 460
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 461
-Tactic call pattern-regression-linear ran for 0.008 secs (0.008u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 462
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 463
-Tactic call pattern-regression-linear ran for 0.011 secs (0.011u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.011 secs (0.008u,0.003s) (success)
 Params: n= 464
-Tactic call pattern-regression-linear ran for 0.011 secs (0.011u,0.s) (success)
-Params: n= 465
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Params: n= 465
+Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 466
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 467
@@ -929,9 +929,9 @@ Tactic call pattern-regression-linear ran for 0.012 secs (0.012u,0.s) (success)
 Params: n= 468
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 469
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.011 secs (0.011u,0.s) (success)
 Params: n= 470
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.009 secs (0.006u,0.003s) (success)
 Params: n= 471
 Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 472
@@ -939,31 +939,31 @@ Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 473
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 474
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 475
-Tactic call pattern-regression-linear ran for 0.011 secs (0.011u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.013 secs (0.013u,0.s) (success)
 Params: n= 476
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 477
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 478
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 479
-Tactic call pattern-regression-linear ran for 0.011 secs (0.011u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 480
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 481
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 482
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 483
-Tactic call pattern-regression-linear ran for 0.011 secs (0.011u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.013 secs (0.013u,0.s) (success)
 Params: n= 484
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.011 secs (0.005u,0.s) (success)
 Params: n= 485
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.01 secs (0.017u,0.s) (success)
 Params: n= 486
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 487
 Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 488
@@ -971,24 +971,24 @@ Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 489
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 490
-Tactic call pattern-regression-linear ran for 0.012 secs (0.012u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.011 secs (0.011u,0.s) (success)
 Params: n= 491
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 492
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 493
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 494
-Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.011 secs (0.011u,0.s) (success)
 Params: n= 495
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.01 secs (0.01u,0.s) (success)
 Params: n= 496
-Tactic call pattern-regression-linear ran for 0.019 secs (0.019u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 497
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 498
-Tactic call pattern-regression-linear ran for 0.011 secs (0.011u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.012 secs (0.012u,0.s) (success)
 Params: n= 499
 Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
 Params: n= 500
-Tactic call pattern-regression-linear ran for 0.009 secs (0.009u,0.s) (success)
+Tactic call pattern-regression-linear ran for 0.011 secs (0.011u,0.s) (success)

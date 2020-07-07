@@ -13,8 +13,8 @@ CPU family:          6
 Model:               85
 Model name:          Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz
 Stepping:            4
-CPU MHz:             2095.079
-BogoMIPS:            4190.15
+CPU MHz:             2095.246
+BogoMIPS:            4190.49
 Hypervisor vendor:   Microsoft
 Virtualization type: full
 L1d cache:           32K
@@ -24,7 +24,7 @@ L3 cache:            36608K
 NUMA node0 CPU(s):   0,1
 Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc rep_good nopl xtopology cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch invpcid_single pti fsgsbase bmi1 hle avx2 smep bmi2 erms invpcid rtm mpx avx512f avx512dq rdseed adx smap clflushopt avx512cd avx512bw avx512vl xsaveopt xsavec xsaves md_clear
 + uname -a
-Linux fv-az16 5.3.0-1031-azure #32~18.04.1-Ubuntu SMP Mon Jun 22 15:27:23 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+Linux fv-az17 5.3.0-1031-azure #32~18.04.1-Ubuntu SMP Mon Jun 22 15:27:23 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
 + lsb_release -a
 Distributor ID:	Ubuntu
 Description:	Ubuntu 18.04.4 LTS
