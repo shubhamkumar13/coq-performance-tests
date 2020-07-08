@@ -11,10 +11,10 @@ NUMA node(s):        1
 Vendor ID:           GenuineIntel
 CPU family:          6
 Model:               85
-Model name:          Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz
-Stepping:            4
-CPU MHz:             2095.249
-BogoMIPS:            4190.49
+Model name:          Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz
+Stepping:            7
+CPU MHz:             2593.906
+BogoMIPS:            5187.81
 Hypervisor vendor:   Microsoft
 Virtualization type: full
 L1d cache:           32K
