@@ -1,5 +1,5 @@
 Params: 0-n= 3 , 1-lgn= 1
-Tactic call try-ssr-rewrite!-cold-noop-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call try-ssr-rewrite!-cold-noop-regression-linear ran for 0. secs (0.u,0.s) (success)
 Tactic call try-ssr-rewrite!-noop-regression-linear ran for 0. secs (0.u,0.s) (success)
 Tactic call try-ssr-rewrite-noop-regression-linear ran for 0. secs (0.u,0.s) (success)
 Tactic call try-ssr-rewrite?-noop-regression-linear ran for 0. secs (0.u,0.s) (success)
