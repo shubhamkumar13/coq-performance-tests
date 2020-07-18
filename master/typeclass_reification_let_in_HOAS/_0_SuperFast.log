@@ -1,0 +1,291 @@
+Params: n= 4
+Tactic call reify-regression-quadratic ran for 0.007 secs (0.003u,0.003s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 5
+Tactic call reify-regression-quadratic ran for 0.009 secs (0.004u,0.004s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 6
+Tactic call reify-regression-quadratic ran for 0.011 secs (0.007u,0.003s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 7
+Tactic call reify-regression-quadratic ran for 0.057 secs (0.054u,0.003s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 8
+Tactic call reify-regression-quadratic ran for 0.011 secs (0.011u,0.s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 9
+Tactic call reify-regression-quadratic ran for 0.014 secs (0.014u,0.s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 10
+Tactic call reify-regression-quadratic ran for 0.016 secs (0.016u,0.s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 11
+Tactic call reify-regression-quadratic ran for 0.019 secs (0.019u,0.s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 12
+Tactic call reify-regression-quadratic ran for 0.023 secs (0.023u,0.s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 13
+Tactic call reify-regression-quadratic ran for 0.025 secs (0.025u,0.s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 14
+Tactic call reify-regression-quadratic ran for 0.029 secs (0.029u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 15
+Tactic call reify-regression-quadratic ran for 0.034 secs (0.034u,0.s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 16
+Tactic call reify-regression-quadratic ran for 0.039 secs (0.037u,0.001s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 17
+Tactic call reify-regression-quadratic ran for 0.038 secs (0.035u,0.002s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 18
+Tactic call reify-regression-quadratic ran for 0.043 secs (0.043u,0.s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 19
+Tactic call reify-regression-quadratic ran for 0.045 secs (0.043u,0.002s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 20
+Tactic call reify-regression-quadratic ran for 0.054 secs (0.054u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 21
+Tactic call reify-regression-quadratic ran for 0.059 secs (0.059u,0.s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 22
+Tactic call reify-regression-quadratic ran for 0.06 secs (0.06u,0.s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 23
+Tactic call reify-regression-quadratic ran for 0.072 secs (0.072u,0.s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 24
+Tactic call reify-regression-quadratic ran for 0.073 secs (0.073u,0.s)
+Tactic call abstract-regression-linear ran for 0. secs (0.u,0.s) (success)
+Params: n= 25
+Tactic call reify-regression-quadratic ran for 0.081 secs (0.081u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 26
+Tactic call reify-regression-quadratic ran for 0.086 secs (0.086u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 27
+Tactic call reify-regression-quadratic ran for 0.104 secs (0.104u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 28
+Tactic call reify-regression-quadratic ran for 0.101 secs (0.101u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 29
+Tactic call reify-regression-quadratic ran for 0.104 secs (0.104u,0.s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 30
+Tactic call reify-regression-quadratic ran for 0.114 secs (0.114u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 31
+Tactic call reify-regression-quadratic ran for 0.129 secs (0.129u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 32
+Tactic call reify-regression-quadratic ran for 0.145 secs (0.142u,0.002s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 33
+Tactic call reify-regression-quadratic ran for 0.155 secs (0.155u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 34
+Tactic call reify-regression-quadratic ran for 0.171 secs (0.171u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 35
+Tactic call reify-regression-quadratic ran for 0.17 secs (0.17u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 36
+Tactic call reify-regression-quadratic ran for 0.181 secs (0.181u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 37
+Tactic call reify-regression-quadratic ran for 0.181 secs (0.181u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 38
+Tactic call reify-regression-quadratic ran for 0.201 secs (0.201u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 39
+Tactic call reify-regression-quadratic ran for 0.217 secs (0.217u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 40
+Tactic call reify-regression-quadratic ran for 0.223 secs (0.219u,0.003s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 41
+Tactic call reify-regression-quadratic ran for 0.231 secs (0.227u,0.004s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 42
+Tactic call reify-regression-quadratic ran for 0.251 secs (0.25u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 43
+Tactic call reify-regression-quadratic ran for 0.267 secs (0.267u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 44
+Tactic call reify-regression-quadratic ran for 0.286 secs (0.286u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 45
+Tactic call reify-regression-quadratic ran for 0.293 secs (0.29u,0.003s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 46
+Tactic call reify-regression-quadratic ran for 0.315 secs (0.315u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 47
+Tactic call reify-regression-quadratic ran for 0.335 secs (0.335u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 48
+Tactic call reify-regression-quadratic ran for 0.344 secs (0.344u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 49
+Tactic call reify-regression-quadratic ran for 0.375 secs (0.371u,0.003s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 50
+Tactic call reify-regression-quadratic ran for 0.387 secs (0.387u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 51
+Tactic call reify-regression-quadratic ran for 0.412 secs (0.412u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 52
+Tactic call reify-regression-quadratic ran for 0.434 secs (0.434u,0.s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 53
+Tactic call reify-regression-quadratic ran for 0.442 secs (0.438u,0.003s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 54
+Tactic call reify-regression-quadratic ran for 0.45 secs (0.45u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 55
+Tactic call reify-regression-quadratic ran for 0.478 secs (0.47u,0.007s)
+Tactic call abstract-regression-linear ran for 0.001 secs (0.001u,0.s) (success)
+Params: n= 56
+Tactic call reify-regression-quadratic ran for 0.504 secs (0.504u,0.s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 57
+Tactic call reify-regression-quadratic ran for 0.53 secs (0.53u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 58
+Tactic call reify-regression-quadratic ran for 0.571 secs (0.571u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 59
+Tactic call reify-regression-quadratic ran for 0.587 secs (0.583u,0.003s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 60
+Tactic call reify-regression-quadratic ran for 0.602 secs (0.602u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 61
+Tactic call reify-regression-quadratic ran for 0.676 secs (0.676u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 62
+Tactic call reify-regression-quadratic ran for 0.671 secs (0.671u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 63
+Tactic call reify-regression-quadratic ran for 0.719 secs (0.718u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 64
+Tactic call reify-regression-quadratic ran for 0.762 secs (0.762u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 65
+Tactic call reify-regression-quadratic ran for 0.749 secs (0.749u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 66
+Tactic call reify-regression-quadratic ran for 0.774 secs (0.774u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 67
+Tactic call reify-regression-quadratic ran for 0.814 secs (0.814u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 68
+Tactic call reify-regression-quadratic ran for 0.852 secs (0.852u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 69
+Tactic call reify-regression-quadratic ran for 0.876 secs (0.876u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 70
+Tactic call reify-regression-quadratic ran for 0.918 secs (0.918u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 71
+Tactic call reify-regression-quadratic ran for 0.991 secs (0.99u,0.s)
+Tactic call abstract-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Params: n= 72
+Tactic call reify-regression-quadratic ran for 1.017 secs (1.017u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 73
+Tactic call reify-regression-quadratic ran for 1.039 secs (1.039u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 74
+Tactic call reify-regression-quadratic ran for 1.066 secs (1.058u,0.007s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 75
+Tactic call reify-regression-quadratic ran for 1.102 secs (1.102u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 76
+Tactic call reify-regression-quadratic ran for 1.15 secs (1.149u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 77
+Tactic call reify-regression-quadratic ran for 1.226 secs (1.226u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 78
+Tactic call reify-regression-quadratic ran for 1.258 secs (1.257u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 79
+Tactic call reify-regression-quadratic ran for 1.325 secs (1.325u,0.s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 80
+Tactic call reify-regression-quadratic ran for 1.368 secs (1.367u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 81
+Tactic call reify-regression-quadratic ran for 1.38 secs (1.38u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 82
+Tactic call reify-regression-quadratic ran for 1.444 secs (1.438u,0.003s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 83
+Tactic call reify-regression-quadratic ran for 1.501 secs (1.5u,0.s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 84
+Tactic call reify-regression-quadratic ran for 1.554 secs (1.554u,0.s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 85
+Tactic call reify-regression-quadratic ran for 1.612 secs (1.607u,0.004s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 86
+Tactic call reify-regression-quadratic ran for 1.676 secs (1.675u,0.s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 87
+Tactic call reify-regression-quadratic ran for 1.759 secs (1.759u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 88
+Tactic call reify-regression-quadratic ran for 1.777 secs (1.777u,0.s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 89
+Tactic call reify-regression-quadratic ran for 1.867 secs (1.866u,0.s)
+Tactic call abstract-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Params: n= 90
+Tactic call reify-regression-quadratic ran for 1.889 secs (1.889u,0.s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 91
+Tactic call reify-regression-quadratic ran for 1.948 secs (1.948u,0.s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 92
+Tactic call reify-regression-quadratic ran for 2.083 secs (2.082u,0.s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 93
+Tactic call reify-regression-quadratic ran for 2.095 secs (2.09u,0.003s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 94
+Tactic call reify-regression-quadratic ran for 2.132 secs (2.131u,0.s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 95
+Tactic call reify-regression-quadratic ran for 2.215 secs (2.215u,0.s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 96
+Tactic call reify-regression-quadratic ran for 2.325 secs (2.325u,0.s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 97
+Tactic call reify-regression-quadratic ran for 2.507 secs (2.507u,0.s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 98
+Tactic call reify-regression-quadratic ran for 2.456 secs (2.456u,0.s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 99
+Tactic call reify-regression-quadratic ran for 2.513 secs (2.512u,0.s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Params: n= 100
+Tactic call reify-regression-quadratic ran for 2.621 secs (2.621u,0.s)
+Tactic call abstract-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
