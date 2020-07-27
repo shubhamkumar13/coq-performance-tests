@@ -1,8 +1,8 @@
 param-n noop-repeat-rewrite-strat-bottomup-regression-cubic-real noop-repeat-rewrite-strat-bottomup-regression-cubic-sys noop-repeat-rewrite-strat-bottomup-regression-cubic-user noop-repeat-rewrite-strat-topdown-regression-cubic-real noop-repeat-rewrite-strat-topdown-regression-cubic-sys noop-repeat-rewrite-strat-topdown-regression-cubic-user noop-repeat-setoid-rewrite-regression-cubic-real noop-repeat-setoid-rewrite-regression-cubic-sys noop-repeat-setoid-rewrite-regression-cubic-user
 0 0. 0. 0. 0. 0. 0. 0.001 0. 0.
-1 0. 0. 0. 0.001 0. 0.001 0.001 0. 0.
-2 0. 0. 0. 0.001 0. 0.001 0.001 0. 0.001
-50 0.114 0. 0.114 0.121 0. 0.121 0.174 0.024 0.149
-100 0.815 0.004 0.811 0.795 0. 0.795 0.815 0. 0.815
-150 2.673 0. 2.673 2.676 0.007 2.667 2.681 0. 2.681
-200 6.32 0.003 6.315 6.32 0. 6.319 6.443 0. 6.439
+1 0. 0. 0. 0.001 0. 0.001 0.001 0. 0.001
+2 0.002 0. 0.002 0.002 0. 0.002 0.001 0. 0.001
+50 0.126 0.001 0.134 0.13 0. 0.121 0.185 0.024 0.161
+100 0.76 0. 0.76 0.772 0. 0.772 0.822 0. 0.822
+150 2.521 0. 2.52 2.557 0. 2.556 2.608 0.002 2.604
+200 5.95 0. 5.946 5.859 0.004 5.852 5.912 0.003 5.907

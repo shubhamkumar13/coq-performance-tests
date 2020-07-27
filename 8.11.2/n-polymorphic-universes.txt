@@ -1,6 +1,6 @@
 param-0-univ-count param-1-n abstract-regression-quadratic-real abstract-regression-quadratic-sys abstract-regression-quadratic-user close-abstract-regression-quadratic-real close-abstract-regression-quadratic-sys close-abstract-regression-quadratic-user exact-regression-linear-real exact-regression-linear-sys exact-regression-linear-user
 1 0 0. 0. 0. 0. 0. 0. 0. 0. 0.
 2 1 0. 0. 0. 0. 0. 0. 0. 0. 0.
-4 2 0. 0. 0. 0. 0. 0. 0. 0. 0.
-8 3 0.002 0. 0.001 0.001 0. 0.001 0. 0. 0.
-16 4 0.003 0. 0.003 0.001 0. 0.001 0. 0. 0.
+4 2 0.001 0.001 0. 0. 0. 0. 0. 0. 0.
+8 3 0.001 0. 0.001 0. 0. 0. 0. 0. 0.
+16 4 0.002 0.002 0. 0.001 0.001 0. 0. 0. 0.

@@ -1,8 +1,8 @@
 param-n abstract+repeat-rewrite-strat-bottomup-regression-cubic-real abstract+repeat-rewrite-strat-bottomup-regression-cubic-sys abstract+repeat-rewrite-strat-bottomup-regression-cubic-user abstract+repeat-rewrite-strat-topdown-regression-cubic-real abstract+repeat-rewrite-strat-topdown-regression-cubic-sys abstract+repeat-rewrite-strat-topdown-regression-cubic-user close-abstract+repeat-rewrite-strat-bottomup-regression-quadratic-real close-abstract+repeat-rewrite-strat-bottomup-regression-quadratic-sys close-abstract+repeat-rewrite-strat-bottomup-regression-quadratic-user close-abstract+repeat-rewrite-strat-topdown-regression-quadratic-real close-abstract+repeat-rewrite-strat-topdown-regression-quadratic-sys close-abstract+repeat-rewrite-strat-topdown-regression-quadratic-user noop-repeat-rewrite-strat-bottomup-regression-cubic-real noop-repeat-rewrite-strat-bottomup-regression-cubic-sys noop-repeat-rewrite-strat-bottomup-regression-cubic-user noop-repeat-rewrite-strat-topdown-regression-cubic-real noop-repeat-rewrite-strat-topdown-regression-cubic-sys noop-repeat-rewrite-strat-topdown-regression-cubic-user repeat-rewrite-strat-bottomup-regression-cubic-real repeat-rewrite-strat-bottomup-regression-cubic-sys repeat-rewrite-strat-bottomup-regression-cubic-user repeat-rewrite-strat-topdown-regression-cubic-real repeat-rewrite-strat-topdown-regression-cubic-sys repeat-rewrite-strat-topdown-regression-cubic-user
-0 0.005 0. 0.005 0.006 0. 0.005 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.001 0. 0. 0.004 0. 0.004 0.003 0. 0.003
-1 0.013 0.003 0.01 0.01 0.008 0.002 0.003 0. 0.003 0. 0. 0. 0. 0. 0. 0.001 0. 0.001 0.008 0.002 0.005 0.008 0.007 0.
-2 0.018 0. 0.017 0.018 0. 0.018 0.001 0. 0.001 0.002 0. 0.002 0.001 0. 0.001 0.001 0. 0.001 0.014 0. 0.014 0.013 0. 0.013
-10 0.238 0.07 0.158 0.232 0.04 0.191 0.006 0. 0.006 0.007 0. 0.007 0.007 0.001 0.006 0.009 0. 0.009 0.225 0.069 0.146 0.214 0.04 0.173
-20 0.872 0. 0.87 0.839 0.001 0.837 0.021 0. 0.021 0.013 0. 0.013 0.026 0. 0.026 0.02 0. 0.02 0.823 0. 0.822 0.804 0.001 0.802
-30 2.908 0. 2.906 2.903 0. 2.902 0.041 0. 0.041 0.042 0. 0.042 0.058 0. 0.057 0.065 0. 0.065 2.808 0. 2.807 2.795 0. 2.794
-40 7.62 0.013 7.605 7.397 0.003 7.389 0.059 0. 0.059 0.06 0. 0.06 0.111 0. 0.111 0.115 0. 0.115 7.449 0.013 7.433 7.219 0.003 7.212
+0 0.004 0.001 0.003 0.004 0. 0.004 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.003 0. 0.003 0.002 0. 0.002
+1 0.008 0.002 0.006 0.008 0.003 0.004 0. 0. 0. 0. 0. 0. 0.001 0. 0.001 0.001 0. 0.001 0.006 0.002 0.004 0.006 0.003 0.002
+2 0.014 0.008 0.006 0.014 0.004 0.01 0. 0. 0. 0.001 0. 0. 0.001 0. 0.001 0.001 0. 0. 0.011 0.007 0.004 0.011 0.003 0.008
+10 0.158 0.04 0.117 0.157 0.031 0.126 0.003 0. 0.003 0.004 0. 0.004 0.004 0. 0.004 0.004 0. 0.004 0.149 0.04 0.109 0.148 0.031 0.117
+20 0.533 0. 0.532 0.519 0. 0.518 0.011 0. 0.011 0.011 0. 0.011 0.014 0. 0.014 0.014 0. 0.014 0.506 0. 0.505 0.492 0. 0.492
+30 1.905 0. 1.904 1.902 0.001 1.9 0.024 0. 0.024 0.022 0. 0.022 0.036 0. 0.036 0.039 0. 0.039 1.843 0. 1.843 1.84 0.001 1.838
+40 5.204 0. 5.203 5.167 0.011 5.154 0.037 0. 0.037 0.039 0. 0.039 0.078 0. 0.078 0.079 0. 0.079 5.087 0. 5.086 5.049 0.011 5.035

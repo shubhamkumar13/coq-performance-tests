@@ -1,8 +1,8 @@
 param-n abstract+setoid-rewrite-regression-cubic-real abstract+setoid-rewrite-regression-cubic-sys abstract+setoid-rewrite-regression-cubic-user close-abstract+setoid-rewrite-regression-quadratic-real close-abstract+setoid-rewrite-regression-quadratic-sys close-abstract+setoid-rewrite-regression-quadratic-user noop-repeat-setoid-rewrite-regression-cubic-real noop-repeat-setoid-rewrite-regression-cubic-sys noop-repeat-setoid-rewrite-regression-cubic-user noop-try-setoid-rewrite-regression-cubic-real noop-try-setoid-rewrite-regression-cubic-sys noop-try-setoid-rewrite-regression-cubic-user repeat-setoid-rewrite-regression-cubic-real repeat-setoid-rewrite-regression-cubic-sys repeat-setoid-rewrite-regression-cubic-user setoid-rewrite-regression-cubic-real setoid-rewrite-regression-cubic-sys setoid-rewrite-regression-cubic-user
-0 0.002 0. 0.002 0. 0. 0. 0. 0. 0. 0.001 0. 0. 0.002 0. 0.002 0.001 0. 0.001
-1 0.003 0. 0.003 0.001 0. 0.001 0. 0. 0. 0.001 0. 0.001 0.003 0. 0.003 0.002 0. 0.002
-2 0.004 0. 0.004 0.001 0. 0.001 0.001 0. 0.001 0.001 0. 0.001 0.005 0.002 0.002 0.003 0. 0.003
-50 0.341 0.027 0.314 0.066 0. 0.066 0.135 0. 0.135 0.202 0.023 0.178 0.41 0.058 0.351 0.275 0.027 0.247
-100 1.46 0.003 1.456 0.238 0. 0.238 0.941 0. 0.941 0.949 0. 0.948 2.167 0. 2.167 1.221 0.003 1.217
-150 4.205 0.004 4.2 0.509 0. 0.509 3.144 0.004 3.14 3.101 0. 3.101 6.638 0.006 6.631 3.695 0.004 3.69
-200 8.611 0.004 8.606 0.887 0. 0.887 7.307 0. 7.306 7.319 0.003 7.314 15.011 0.003 15.003 7.723 0.004 7.717
+0 0.002 0. 0.001 0. 0. 0. 0. 0. 0. 0.001 0. 0. 0.001 0. 0.001 0.001 0. 0.001
+1 0.003 0. 0.003 0. 0. 0. 0.001 0. 0.001 0.001 0.001 0. 0.003 0. 0.003 0.002 0. 0.002
+2 0.005 0.003 0.001 0.001 0. 0.001 0.001 0. 0.001 0.001 0.001 0. 0.004 0.003 0.001 0.003 0.003 0.
+50 0.327 0.028 0.298 0.065 0.004 0.061 0.146 0. 0.146 0.182 0.026 0.155 0.439 0.023 0.415 0.261 0.024 0.236
+100 1.366 0.004 1.361 0.245 0. 0.245 0.866 0. 0.861 0.84 0. 0.84 1.971 0.004 1.966 1.12 0.004 1.115
+150 3.775 0.011 3.761 0.508 0. 0.507 2.919 0. 2.918 2.829 0.002 2.826 6.279 0.004 6.274 3.266 0.011 3.252
+200 7.864 0.007 7.854 0.897 0. 0.896 6.45 0.003 6.446 6.629 0. 6.626 13.685 0.02 13.663 6.966 0.007 6.956
